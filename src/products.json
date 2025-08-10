@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "RoadRunner Running Shoes",
+    "price": 89.99,
+    "category": "Shoes",
+    "description": "Lightweight running shoes with breathable mesh.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "TrailBlazer Hiking Boots",
+    "price": 129.99,
+    "category": "Shoes",
+    "description": "Durable boots for rugged terrain.",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "AeroFit Sports Tee",
+    "price": 24.99,
+    "category": "Apparel",
+    "description": "Moisture-wicking t-shirt for workouts.",
+    "rating": 4.1
+  },
+  {
+    "id": 4,
+    "name": "ComfyFlex Joggers",
+    "price": 39.99,
+    "category": "Apparel",
+    "description": "Stretch joggers with zip pockets.",
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "name": "HydraSmart Water Bottle",
+    "price": 19.99,
+    "category": "Accessories",
+    "description": "Insulated bottle keeps drinks cold for 24h.",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "name": "PulseX Fitness Watch",
+    "price": 159.0,
+    "category": "Electronics",
+    "description": "Tracks heart rate, sleep, and workouts.",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "name": "CloudWalk Sneakers",
+    "price": 99.99,
+    "category": "Shoes",
+    "description": "Everyday sneakers with memory foam soles.",
+    "rating": 4.0
+  },
+  {
+    "id": 8,
+    "name": "ZenYoga Mat",
+    "price": 29.99,
+    "category": "Accessories",
+    "description": "Non-slip mat with carrying strap.",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "name": "HeatTech Hoodie",
+    "price": 59.99,
+    "category": "Apparel",
+    "description": "Warm hoodie with soft fleece lining.",
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "name": "Sprint Pro Socks (3-pack)",
+    "price": 12.99,
+    "category": "Apparel",
+    "description": "Cushioned, breathable athletic socks.",
+    "rating": 4.2
+  },
+  {
+    "id": 11,
+    "name": "NightRunner LED Armband",
+    "price": 14.99,
+    "category": "Accessories",
+    "description": "Be seen at night; adjustable and rechargeable.",
+    "rating": 4.1
+  },
+  {
+    "id": 12,
+    "name": "LiftMax Adjustable Dumbbells",
+    "price": 199.0,
+    "category": "Equipment",
+    "description": "Selectorized dumbbells 5–52.5 lb.",
+    "rating": 4.6
+  }
+]
