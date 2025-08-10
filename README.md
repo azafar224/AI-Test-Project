@@ -1,4 +1,3 @@
-````md
 # AI Commerce – Test Project
 
 This is a small, single-page e-commerce product catalog built with **React + Vite**.  
@@ -17,7 +16,6 @@ npm run dev
 
 # 3. Open the printed URL in your browser (usually http://localhost:5173)
 ```
-````
 
 > Requires Node.js 16+ and npm.
 
